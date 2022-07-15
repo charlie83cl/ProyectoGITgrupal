@@ -1,0 +1,9 @@
+body {
+	background:blue;
+}
+p{
+	border: dashed 1px white;	
+	text-align:center;
+	text-decoration-line: underline;
+
+}
